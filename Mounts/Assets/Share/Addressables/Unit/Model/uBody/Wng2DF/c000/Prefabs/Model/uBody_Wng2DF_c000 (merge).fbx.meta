@@ -1,0 +1,171 @@
+fileFormatVersion: 2
+guid: 338e3ed898341154eaaac6de53116393
+ModelImporter:
+  serializedVersion: 20200
+  internalIDToNameTable:
+  - first:
+      74: -8386265761690735008
+    second: uAnim_Bow2BF-Bw1_c000_Attack1
+  - first:
+      74: 707575540799514245
+    second: uAnim_Bow2BF-Bw1_c000_WinLoop
+  - first:
+      74: 3026176398232662598
+    second: uAnim_Bow2BF-Bw1_c000_Start
+  - first:
+      74: 1980410127455199990
+    second: uAnim_Bow2BF-Bw1_c000_RunStart
+  - first:
+      74: -1433009204041056480
+    second: uAnim_Bow2BF-Bw1_c000_RunLoop
+  - first:
+      74: -7804089825571050654
+    second: uAnim_Bow2BF-Bw1_c000_RelaxLoop
+  - first:
+      74: 1521929320746150772
+    second: uAnim_Bow2BF-Bw1_c000_Ready
+  - first:
+      74: 6659422462936256247
+    second: uAnim_Bow2BF-Bw1_c000_ParryR
+  - first:
+      74: -4216017912047966756
+    second: uAnim_Bow2BF-Bw1_c000_ParryL
+  - first:
+      74: -7815311561220234424
+    second: uAnim_Bow2BF-Bw1_c000_IdleNormal
+  - first:
+      74: 2166827955957240984
+    second: uAnim_Bow2BF-Bw1_c000_IdleDying
+  - first:
+      74: 5227123352685517389
+    second: uAnim_Bow2BF-Bw1_c000_Guard
+  - first:
+      74: 3688511831586320147
+    second: uAnim_Bow2BF-Bw1_c000_EvasionR
+  - first:
+      74: -424289774455946111
+    second: uAnim_Bow2BF-Bw1_c000_EvasionL
+  - first:
+      74: -3657975255865554045
+    second: uAnim_Bow2BF-Bw1_c000_EvasionB
+  - first:
+      74: -6808181433801312112
+    second: uAnim_Bow2BF-Bw1_c000_Win
+  - first:
+      74: -2448599138776280352
+    second: uAnim_Bow2BF-Bw1_c000_DamageMidUD
+  - first:
+      74: -1201956679983581374
+    second: uAnim_Bow2BF-Bw1_c000_DamageMidDU
+  - first:
+      74: 4372532662338275459
+    second: uAnim_Bow2BF-Bw1_c000_AttackC
+  - first:
+      74: 5152815991335791523
+    second: uAnim_Bow2BF-Bw1_c000_Attack3
+  - first:
+      74: -4158336694875641725
+    second: uAnim_Bow2BF-Bw1_c000_DamageMidB
+  - first:
+      74: -1411936042283263676
+    second: uAnim_Bow2BF-Bw1_c000_Attack2
+  - first:
+      74: -8211699180246615286
+    second: uAnim_Bow2BF-Bw1_c000_DamageHigh
+  externalObjects: {}
+  materials:
+    materialImportMode: 1
+    materialName: 1
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: c_trans
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 1
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
